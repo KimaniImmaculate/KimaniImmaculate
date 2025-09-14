@@ -36,6 +36,12 @@
 
 ---
 
+## 🌟 Featured Projects  
+
+- [Brastwin](https://github.com/KimaniImmaculate/brastwin) – A practice project showcasing frontend skills.  
+- [Portfolio](https://github.com/KimaniImmaculate/Hportfolio) – My personal developer portfolio, highlighting projects and skills.  
+- *(More to come as I keep building! 🚀)*  
+
 ⭐ Always building, always learning.
 
 
