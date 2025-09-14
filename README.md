@@ -2,18 +2,18 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats & Activity  
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=KimaniImmaculate&theme=tokyonight&hide_border=true)  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KimaniImmaculate&theme=tokyo-night)
 
 ---
 
-## 🛠️ Languages & Tech
+## 🛠️ Tech Stack  
 
 ### 🌐 Frontend  
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+[CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -40,9 +40,20 @@
 
 - [Brastwin](https://github.com/KimaniImmaculate/brastwin) – A practice project showcasing frontend skills.  
 - [Portfolio](https://github.com/KimaniImmaculate/Hportfolio) – My personal developer portfolio, highlighting projects and skills.  
-- *(More to come as I keep building! 🚀)*  
+- [Cleaning Services Website](https://github.com/KimaniImmaculate/CProj) – A class project built as a team, focusing on clean design and usability.  
 
-⭐ Always building, always learning.
+---
+
+## 🤝 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/immaculate-kimani)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:immaculatekimani001@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KimaniImmaculate)  
+
+---
+
+⭐ Always building, always learning.  
+
 
 
 
