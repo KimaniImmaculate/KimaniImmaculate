@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&width=700&lines=Hi%2C+I'm+Immaculate+👋;💻+Computer+Science+Student+%7C+Tech+Explorer;🚀+Currently+learning+MERN+Stack+(MongoDB%2C+Express%2C+React%2C+Node.js);🐍+Exploring+Python+%26+SQL+for+backend+%26+data+projects;🌐+Passionate+about+building+clean%2C+user-friendly+web+apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&width=700&lines=Hi%2C+I'm+Immaculate+👋;💻+Computer+Science+Student+%7C+Tech+Explorer;🚀+Currently+learning+MERN+Stack+(MongoDB%2C+Express%2C+React%2C+Node.js%2C);🐍+Exploring+Python+%26+SQL+for+backend+%26+data+projects;🌐+Passionate+about+building+clean%2C+user-friendly+web+apps)](https://git.io/typing-svg)
 
 ---
 
