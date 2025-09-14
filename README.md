@@ -3,7 +3,8 @@
 ---
 
 ## 📊 GitHub Stats & Activity  
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KimaniImmaculate&show_icons=true&theme=tokyonight&hide_border=true)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/username=KimaniImmaculate&layout=compact&theme=tokyonight&hide_border=true) 
 ![GitHub Streak](https://streak-stats.demolab.com?user=KimaniImmaculate&theme=tokyonight&hide_border=true)  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KimaniImmaculate&theme=tokyo-night)
 
@@ -40,7 +41,9 @@
 
 - [Brastwin](https://github.com/KimaniImmaculate/brastwin) – A practice project showcasing frontend skills.  
 - [Portfolio](https://github.com/KimaniImmaculate/Hportfolio) – My personal developer portfolio, highlighting projects and skills.  
-- [Cleaning Services Website](https://github.com/KimaniImmaculate/CProj) – A class project built as a team, focusing on clean design and usability.  
+- [Cleaning Services Website](https://github.com/KimaniImmaculate/CProj) – A class project built as a team, focusing on clean design and usability.
+- *(More to come as I keep building! 🚀)*  
+
 
 ---
 
@@ -55,19 +58,3 @@
 ⭐ Always building, always learning.  
 
 
-
-
-<!--
-**KimaniImmaculate/KimaniImmaculate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
