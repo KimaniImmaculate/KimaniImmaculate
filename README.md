@@ -35,8 +35,8 @@
 ## 🌟 Featured Projects  
 
 - [Brastwin](https://github.com/KimaniImmaculate/brastwin) – A practice project showcasing frontend skills.  
-- [Portfolio](https://github.com/KimaniImmaculate/portfolio) – My personal developer portfolio, highlighting projects and skills.  
-- [Cleaning Website](https://github.com/KimaniImmaculate/cleaning-website) – A class project built as a team, focusing on clean design and usability.
+- [Portfolio](https://github.com/KimaniImmaculate/Hportfolio) – My personal developer portfolio, highlighting projects and skills.  
+- [Cleaning Website](https://github.com/KimaniImmaculate/CProj) – A class project built as a team, focusing on clean design and usability.
 - *(More to come as I keep building! 🚀)*  
 
 
@@ -44,7 +44,7 @@
 
 ## 🤝 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/immaculate-kimani) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimaniimmaculate@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KimaniImmaculate)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/immaculate-kimani) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:immaculatekimani001@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KimaniImmaculate)
 
 ---
 
