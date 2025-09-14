@@ -5,7 +5,7 @@
 
 ## 📊 GitHub Stats & Activity  
 
-![Immaculate's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImmaculateKimani&show_icons=true&theme=tokyonight)  
+![Immaculate's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImmaculateKimani&show_icons=true&theme=tokyonight) 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ImmaculateKimani&theme=tokyonight)  
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ImmaculateKimani&theme=tokyo-night)  
 
