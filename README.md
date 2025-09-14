@@ -4,7 +4,8 @@
 
 ## 📊 GitHub Stats & Activity  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KimaniImmaculate&show_icons=true&theme=tokyonight&hide_border=true)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/username=KimaniImmaculate&layout=compact&theme=tokyonight&hide_border=true) 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KimaniImmaculate&layout=compact&theme=tokyonight&hide_border=true)  
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=KimaniImmaculate&theme=tokyonight&hide_border=true)  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KimaniImmaculate&theme=tokyo-night)
 
