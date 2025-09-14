@@ -1,7 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1500&color=FF69B4&width=700&lines=🌸+Hi,+I'm+Immaculate!;💻+A+passionate+Computer+Science+student+exploring+the+magic+of+code.;🌱+Currently+growing+my+skills+in+the+MERN+stack+(MongoDB,+Express,+React,+Node.js);🐍+Learning+Python+%26+SQL+to+bring+ideas+to+life+with+data.;🎨+I+love+creating+clean,+aesthetic,+and+user-friendly+web+apps.;☕+Fuelled+by+curiosity,+coffee,+and+the+dream+of+making+tech+more+inclusive.;✨+Always+learning.+Always+building.+Always+blooming+🌸)](https://git.io/typing-svg)
-
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1500&color=FF69B4&width=700&lines=🌸+Holla,+I'm+Immaculate!;💻+A+CS+student+exploring+the+magic+of+code.;🌱+Learning+the+MERN+stack.;🎨+Creating+clean+and+user-friendly+apps.;☕+Fueled+by+curiosity+%26+coffee.;✨+Always+learning,+building,+blooming+🌸)](https://git.io/typing-svg)
 
 ---
 
