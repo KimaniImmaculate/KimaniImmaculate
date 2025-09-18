@@ -3,11 +3,11 @@
 ---
 
 ## 📊 GitHub Stats & Activity  
-
- Top Languages 
-|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimaniImmaculate&layout=compact&theme=tokyonight&hide_border=true) |
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KimaniImmaculate&theme=tokyo-night)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimaniImmaculate&layout=compact&theme=tokyonight&hide_border=true) 
+
 
 ---
 
