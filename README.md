@@ -7,8 +7,6 @@
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KimaniImmaculate&layout=compact)
-
 ## 🛠️ Tech Stack  
 
 ### 🌐 Frontend  
