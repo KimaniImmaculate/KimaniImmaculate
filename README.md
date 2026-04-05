@@ -19,7 +19,6 @@
 ### 🔧 Tools  
 ![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
 
 ## 🌟 Featured Projects  
 
@@ -30,13 +29,10 @@
 - *(More to come as I keep building! 🚀)*  
 
 
----
-
 ## 🤝 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/immaculate-kimani) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:immaculatekimani001@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KimaniImmaculate)
 
----
 
 ⭐ Always building, always learning.
   
