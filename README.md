@@ -2,11 +2,6 @@
 
 ---
 
-## 📊 GitHub Stats & Activity  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KimaniImmaculate&theme=tokyo-night)
-
----
-
 ## 🛠️ Tech Stack  
 
 ### 🌐 Frontend  
