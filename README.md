@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1500&color=FF69B4&width=700&lines=🌸+Holla,+I'm+Immaculate!;💻+A+CS+student+exploring+the+magic+of+code.;🌱+Learning+the+MERN+stack.;🎨+Creating+clean+and+user-friendly+apps.;☕+Fueled+by+curiosity+%26+coffee.;✨+Always+learning,+building,+blooming+🌸)](https://git.io/typing-svg)
 
----
 
 ## 🛠️ Tech Stack  
 
