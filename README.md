@@ -27,8 +27,9 @@
 
 - [Brastwin](https://github.com/KimaniImmaculate/brastwin) – A practice project showcasing frontend skills.  
 - [Portfolio](https://github.com/KimaniImmaculate/Hportfolio) – My personal developer portfolio, highlighting projects and skills.  
-- [Cleaning Website](https://github.com/KimaniImmaculate/CProj) – A class project built as a team, focusing on clean design and usability.
+- [CWallet](https://github.com/KimaniImmaculate/CWallet) – A financial companion for the modern student
 - [Zawify](https://github.com/KimaniImmaculate/Zawify.git) - A modern gifting platform designed to make gift-giving simple, smart, and meaningful
+- 
 - *(More to come as I keep building! 🚀)*  
 
 
