@@ -29,7 +29,6 @@
 - [Portfolio](https://github.com/KimaniImmaculate/Hportfolio) – My personal developer portfolio, highlighting projects and skills.  
 - [CWallet](https://github.com/KimaniImmaculate/CWallet) – A financial companion for the modern student
 - [Zawify](https://github.com/KimaniImmaculate/Zawify.git) - A modern gifting platform designed to make gift-giving simple, smart, and meaningful
-- 
 - *(More to come as I keep building! 🚀)*  
 
 
