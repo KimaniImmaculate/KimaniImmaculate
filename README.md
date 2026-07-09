@@ -48,7 +48,7 @@
 - [Aeroride](https://github.com/KimaniImmaculate/Aeroride) – A smart ride-booking platform featuring real-time ride requests, driver matching, trip management, authentication, and Firebase-powered backend services.  
 - [AcaTrack](https://github.com/KimaniImmaculate/AcaTrack) – A digital research proposal management system that streamlines proposal submission, review workflows, approvals, progress tracking, and collaboration between researchers and administrators.
 - [CWallet](https://github.com/KimaniImmaculate/CWallet) – A financial companion for the modern student
-- [Zawify][(https://github.com/KimaniImmaculate/mern-final-project-KimaniImmaculate.git)] - A modern gifting platform designed to make gift-giving simple, smart, and meaningful
+- [Zawify](https://github.com/KimaniImmaculate/mern-final-project-KimaniImmaculate.git) - A modern gifting platform designed to make gift-giving simple, smart, and meaningful
 - *(More to come as I keep building! 🚀)*  
 
 
